@@ -1,10 +1,4 @@
-HTML5 Muffin chocchip steps
+Github repo for Baochen Sun's blog
 ============================
 
-Run bundle install
-
-	bundle install
-
-Run jekyll
-
-	jekyll
+Github repo for Baochen Sun's blog
